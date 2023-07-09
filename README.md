@@ -18,4 +18,4 @@ Hyper Parameters:
 
 Credit for Original Model: Xinyang (Young) Geng and Hao Liu from [OpenLM Research](https://huggingface.co/openlm-research)
 
-Fine Tuned Model: [RyanAir/alpaca-3b-fine-tuned](https://huggingface.co/RyanAir/alpaca-3b-fine-tuned) (HuggingFace)
+Fine-Tuned Model: [RyanAir/alpaca-3b-fine-tuned](https://huggingface.co/RyanAir/alpaca-3b-fine-tuned) (HuggingFace)
